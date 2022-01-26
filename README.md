@@ -1,5 +1,7 @@
 # Habitat Plans
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/6d852fb2-0a03-4b29-b57f-ac68ebc55372.svg?orgId=387173487776)](https://app.soluble.cloud/repos/details/github.com/lhasadreams/core-plans?orgId=387173487776)  
+
 [![Build Status](https://travis-ci.org/habitat-sh/core-plans.svg?branch=master)](https://travis-ci.org/habitat-sh/core-plans)
 [![Slack](http://slack.habitat.sh/badge.svg)](http://slack.habitat.sh/)
 [![GitHub issues](https://img.shields.io/github/issues/habitat-sh/core-plans.svg)](https://github.com/habitat-sh/core-plans/issues)
